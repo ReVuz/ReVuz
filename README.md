@@ -117,7 +117,7 @@ struct Developer {
   <a href="https://www.instagram.com/ashwathyachu5410/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="discord.com/users/.un._.known." target="_blank">
+  <a href="https://discord.com/channels/@me/991045716329787476" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="revu.zzz0@gmail.com" target="_blank">

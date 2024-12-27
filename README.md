@@ -9,7 +9,8 @@ struct Developer {
     char* username = "ReVuz";
     char* status = "DEBUG_MODE_ACTIVE";
     int caffeine_level = COFFEE_LEVEL;
-    bool is_coding = true;<br>} dev;
+    bool is_coding = true;
+} dev;
 ```
 ###
 <div align="center">

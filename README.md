@@ -1,8 +1,17 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
-<h2 align="center">Hi 👋, I'm Revathy</h2>
+<h1 align="center">Hi 👋, I'm Revathy</h1>
 
 ###
-
+```bash
+#include <life.h>
+#define COFFEE_LEVEL 100
+struct Developer {
+    char* username = "ReVuz";
+    char* status = "DEBUG_MODE_ACTIVE";
+    int caffeine_level = COFFEE_LEVEL;
+    bool is_coding = true;<br>} dev;
+```
+###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=revuz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=revuz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -55,9 +64,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/revuz/revuz/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">#include <life.h><br>#define COFFEE_LEVEL 100<br><br>struct Developer {<br>    char* username = "ReVuz";<br>    char* status = "DEBUG_MODE_ACTIVE";<br>    int caffeine_level = COFFEE_LEVEL;<br>    bool is_coding = true;<br>} dev;</p>
 
 ###

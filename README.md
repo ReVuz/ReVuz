@@ -138,7 +138,7 @@ struct Developer {
 ###
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=carbonfox" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=ReVuz&theme=carbonfox" alt="GitHub Streak">
   </a>
 </div>
 

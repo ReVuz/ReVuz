@@ -136,7 +136,13 @@ struct Developer {
 </div>
 
 ###
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=carbonfox" alt="GitHub Streak">
+  </a>
+</div>
 
+###
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/revuz/revuz/output/snake.svg" alt="Snake animation" />

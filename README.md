@@ -142,6 +142,11 @@ struct Developer {
   </a>
 </div>
 
+<!-- ## 👀 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/skywalker478/count.svg)
+-->
+
 ###
 <br clear="both">
 
